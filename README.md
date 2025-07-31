@@ -3,10 +3,10 @@ This project is a deep learning model for image classification.
 I used a dataset from Kaggle and implemented the code in Google Colab. 
 The model was trained, tested, and evaluated to achieve accurate predictions.
 
-## Dataset
+# Dataset
 The dataset was sourced from Kaggle: https://www.kaggle.com/datasets/mahmoudreda55/satellite-image-classification/data 
 
-# overview of project
+# Overview of the project
 This project involves satellite image classification using a hybrid approach that combines a Deep
 Belief Network (DBN) with a Convolutional Neural Network (CNN). The dataset used for this
 project is the RSI-CB256, which contains four categories of satellite images:
